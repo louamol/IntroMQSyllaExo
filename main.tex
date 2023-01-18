@@ -1,5 +1,5 @@
 %---PACKAGES----------------------------------------
-\documentclass[a4paper,10pt]{article}
+\documentclass[a4paper,10pt]{report}
 
 \usepackage{import}
 \import{Packages/}{custom_packages.tex}
@@ -7,27 +7,35 @@
 
 \setcounter{tocdepth}{2}
 
-\title{\textbf{Introduction à la Mécanique Quantique}}
-\author{Louan Mol}
-\date{Last updated on \today.}
-
 % DOCUMENT -----------------------------
 
 \begin{document}
 
-%\include{titlepage4.tex}
+\include{titlepageULB.tex}
 
-\maketitle
+\nocite{*}
 
-\nocite{keylist}
+\thispagestyle{plain}
 
-\tableofcontents
+${}$
+
+\vspace{5cm}
+
+Les énoncés figurants dans ce documents ont été repris des séances d'exercices rédigées par Adrien Fiorucci.
 
 \pagebreak
+
+\thispagestyle{plain}
+
+\tableofcontents
 
 \printbibliography
 
 \pagebreak
+
+\makeatletter
+\renewcommand{\@chapapp}{Séance}
+\makeatother
 
 \include{Body/seance1.tex}
 
@@ -42,5 +50,17 @@
 \include{Body/seance6.tex}
 
 \include{Body/seance7.tex}
+
+\include{Body/examenjuin2019.tex}
+
+\include{Body/examenseptembre2019.tex}
+
+\include{Body/examenjuin2021.tex}
+
+\include{Body/examenseptembre2021.tex}
+
+\include{Body/examenjuin2022.tex}
+
+\include{Body/examenseptembre2022.tex}
 
 \end{document}

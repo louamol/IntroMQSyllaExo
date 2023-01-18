@@ -1,0 +1,46 @@
+%---PACKAGES----------------------------------------
+\documentclass[a4paper,10pt]{article}
+
+\usepackage{import}
+\import{Packages/}{custom_packages.tex}
+\import{Packages/}{custom_macros.tex}
+
+\setcounter{tocdepth}{2}
+
+\title{\textbf{Introduction à la Mécanique Quantique}}
+\author{Louan Mol}
+\date{Last updated on \today.}
+
+% DOCUMENT -----------------------------
+
+\begin{document}
+
+%\include{titlepage4.tex}
+
+\maketitle
+
+\nocite{keylist}
+
+\tableofcontents
+
+\pagebreak
+
+\printbibliography
+
+\pagebreak
+
+\include{Body/seance1.tex}
+
+\include{Body/seance2.tex}
+
+\include{Body/seance3.tex}
+
+\include{Body/seance4.tex}
+
+\include{Body/seance5.tex}
+
+\include{Body/seance6.tex}
+
+\include{Body/seance7.tex}
+
+\end{document}

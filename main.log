@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2022.7.24)  18 JAN 2023 15:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2022.7.24)  26 JAN 2023 09:59
 entering extended mode
 **/home/louan/Documents/LaTeX/IntroMQ/IntroMQSyllaExo/main.tex
 (/home/louan/Documents/LaTeX/IntroMQ/IntroMQSyllaExo/main.tex
@@ -1672,11 +1672,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
  (Body/seance5.tex
 S^^c3^^a9ance 5.
-
-Overfull \hbox (6.92697pt too wide) in paragraph at lines 1--1
-|[]\T1/cmr/bx/n/24.88 Syst^^e8mes ^^e0 deux di-men-sions| 
- []
-
 [30
 
 
@@ -1715,11 +1710,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
  (Body/seance6.tex
 S^^c3^^a9ance 6.
-
-Overfull \hbox (4.44196pt too wide) in paragraph at lines 1--1
-|[]\T1/cmr/bx/n/24.88 L'oscillateur har-mo-nique en
- []
-
 [34
 
 
@@ -1854,23 +1844,23 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 
 ] (main.aux (titlepageULB.aux) (Body/seance1.aux) (Body/seance2.aux) (Body/seance3.aux) (Body/seance4.aux) (Body/seance5.aux) (Body/seance6.aux) (Body/seance7.aux) (Body/examenjuin2019.aux) (Body/examenseptembre2019.aux) (Body/examenjuin2021.aux) (Body/examenseptembre2021.aux) (Body/examenjuin2022.aux) (Body/examenseptembre2022.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AB507EF0D344DE81FCC18C72D05B7A5A;2771.
+(rerunfilecheck)             Checksum: 8CF8BC89D70C39B77FE58DC631CDB187;2768.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 53886 strings out of 478362
- 1207584 string characters out of 2842112
+ 53893 strings out of 478362
+ 1207652 string characters out of 2842112
  2070060 words of memory out of 3000000
- 70833 multiletter control sequences out of 15000+600000
+ 70834 multiletter control sequences out of 15000+600000
  487890 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  106i,16n,114p,1245b,1840s stack positions out of 10000i,1000n,20000p,200000b,80000s
  </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0700.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2488.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2074.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmib10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/rsfs/rsfs10.pfb>
-Output written on main.pdf (48 pages, 902795 bytes).
+Output written on main.pdf (48 pages, 904749 bytes).
 PDF statistics:
- 1363 PDF objects out of 1440 (max. 8388607)
- 504 named destinations out of 1000 (max. 500000)
+ 1373 PDF objects out of 1440 (max. 8388607)
+ 510 named destinations out of 1000 (max. 500000)
  171 words of extra memory for PDF output out of 10000 (max. 10000000)
 

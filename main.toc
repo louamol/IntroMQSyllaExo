@@ -56,7 +56,7 @@
 \contentsline {paragraph}{Exercice 6}{41}{paragraph*.54}%
 \contentsline {part}{Examens pr^^c3^^a9c^^c3^^a9dents}{42}{equation.7.0.12}%
 \contentsline {chapter}{Examen de juin 2019}{42}{section*.55}%
-\contentsline {chapter}{Examen de septembre 2019}{43}{chapter*.56}%
+\contentsline {chapter}{Examen de septembre 2019}{43}{Item.336}%
 \contentsline {chapter}{Examen de juin 2021}{44}{chapter*.57}%
 \contentsline {chapter}{Examen de septembre 2021}{45}{chapter*.58}%
 \contentsline {chapter}{Examen de juin 2022}{46}{chapter*.59}%

@@ -56,8 +56,21 @@
 \contentsline {paragraph}{Exercice 6}{41}{paragraph*.54}%
 \contentsline {part}{Examens pr^^c3^^a9c^^c3^^a9dents}{42}{equation.7.0.12}%
 \contentsline {chapter}{Examen de juin 2019}{42}{section*.55}%
-\contentsline {chapter}{Examen de septembre 2019}{43}{Item.336}%
-\contentsline {chapter}{Examen de juin 2021}{44}{chapter*.57}%
-\contentsline {chapter}{Examen de septembre 2021}{45}{chapter*.58}%
-\contentsline {chapter}{Examen de juin 2022}{46}{chapter*.59}%
-\contentsline {chapter}{Examen de septembre 2022}{47}{chapter*.60}%
+\contentsline {chapter}{\numberline {8}Juin 2019}{42}{chapter.8}%
+\contentsline {paragraph}{Question 1}{42}{paragraph*.56}%
+\contentsline {paragraph}{Question 2}{43}{paragraph*.57}%
+\contentsline {paragraph}{Question 3}{45}{paragraph*.58}%
+\contentsline {paragraph}{Question 4}{47}{paragraph*.61}%
+\contentsline {chapter}{Examen de septembre 2019}{48}{Item.346}%
+\contentsline {paragraph}{Question 1}{48}{paragraph*.63}%
+\contentsline {paragraph}{Question 2}{50}{paragraph*.64}%
+\contentsline {paragraph}{Question 3}{53}{paragraph*.65}%
+\contentsline {paragraph}{Question 4}{56}{paragraph*.66}%
+\contentsline {chapter}{Examen de juin 2021}{57}{Item.361}%
+\contentsline {paragraph}{Question 1}{57}{paragraph*.69}%
+\contentsline {paragraph}{Question 2}{59}{paragraph*.70}%
+\contentsline {paragraph}{Question 3}{60}{paragraph*.72}%
+\contentsline {chapter}{Examen de septembre 2021}{62}{equation.8.0.16}%
+\contentsline {paragraph}{Question 1}{62}{paragraph*.75}%
+\contentsline {paragraph}{Question 2}{67}{paragraph*.78}%
+\contentsline {paragraph}{Question X}{69}{paragraph*.79}%

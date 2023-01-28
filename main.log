@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2022.7.24)  26 JAN 2023 09:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2022.7.24)  28 JAN 2023 16:13
 entering extended mode
 **/home/louan/Documents/LaTeX/IntroMQ/IntroMQSyllaExo/main.tex
 (/home/louan/Documents/LaTeX/IntroMQ/IntroMQSyllaExo/main.tex
@@ -1185,38 +1185,49 @@ Library (tcolorbox): 'tcbskins.code.tex' version '5.1.1'
 \tcb@waterbox=\box91
 (/home/louan/.miktex/texmfs/install/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.1.1'
-))) (/home/louan/.miktex/texmfs/install/tex/latex/arydshln/arydshln.sty
+))) (/home/louan/.miktex/texmfs/install/tex/latex/ulem/ulem.sty
+\UL@box=\box92
+\UL@hyphenbox=\box93
+\UL@skip=\skip171
+\UL@hook=\toks66
+\UL@height=\dimen335
+\UL@pe=\count490
+\UL@pixel=\dimen336
+\ULC@box=\box94
+Package: ulem 2019/11/18
+\ULdepth=\dimen337
+) (/home/louan/.miktex/texmfs/install/tex/latex/arydshln/arydshln.sty
 Package: arydshln 2019/02/21 v1.76 
-\dashlinedash=\dimen335
-\dashlinegap=\dimen336
-\adl@box=\box92
-\adl@height=\dimen337
-\adl@heightsave=\dimen338
-\adl@depth=\dimen339
-\adl@depthsave=\dimen340
-\adl@finaldepth=\dimen341
-\adl@columns=\count490
-\adl@ncol=\count491
-\adl@currentcolumn=\count492
-\adl@currentcolumnsave=\count493
-\adl@totalheight=\count494
-\adl@totalheightsave=\count495
-\adl@dash=\count496
-\adl@gap=\count497
-\adl@cla=\count498
-\adl@clb=\count499
-\adl@everyvbox=\toks66
-\adl@LTpagetotal=\dimen342
+\dashlinedash=\dimen338
+\dashlinegap=\dimen339
+\adl@box=\box95
+\adl@height=\dimen340
+\adl@heightsave=\dimen341
+\adl@depth=\dimen342
+\adl@depthsave=\dimen343
+\adl@finaldepth=\dimen344
+\adl@columns=\count491
+\adl@ncol=\count492
+\adl@currentcolumn=\count493
+\adl@currentcolumnsave=\count494
+\adl@totalheight=\count495
+\adl@totalheightsave=\count496
+\adl@dash=\count497
+\adl@gap=\count498
+\adl@cla=\count499
+\adl@clb=\count500
+\adl@everyvbox=\toks67
+\adl@LTpagetotal=\dimen345
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 95.
-\c@theorem=\count500
-\c@lemma=\count501
-\c@prop=\count502
-\c@cor=\count503
-\c@defn=\count504
-\c@remark=\count505
-\c@examp=\count506
-\c@post=\count507
+\c@theorem=\count501
+\c@lemma=\count502
+\c@prop=\count503
+\c@cor=\count504
+\c@defn=\count505
+\c@remark=\count506
+\c@examp=\count507
+\c@post=\count508
 Now handling font encoding LS1 ...
 ... no UTF-8 mapping file for font encoding LS1
 \symsymbols2=\mathgroup12
@@ -1225,9 +1236,34 @@ Now handling font encoding LS1 ...
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count508
-\@quotereset=\count509
-(main.aux (titlepageULB.aux) (Body/seance1.aux) (Body/seance2.aux) (Body/seance3.aux) (Body/seance4.aux) (Body/seance5.aux) (Body/seance6.aux) (Body/seance7.aux) (Body/examenjuin2019.aux) (Body/examenseptembre2019.aux) (Body/examenjuin2021.aux) (Body/examenseptembre2021.aux) (Body/examenjuin2022.aux) (Body/examenseptembre2022.aux))
+\@quotelevel=\count509
+\@quotereset=\count510
+(main.aux (titlepageULB.aux) (Body/seance1.aux) (Body/seance2.aux) (Body/seance3.aux) (Body/seance4.aux) (Body/seance5.aux) (Body/seance6.aux) (Body/seance7.aux) (Body/examenjuin2019.aux) (Body/examenseptembre2019.aux
+
+LaTeX Warning: Label `Eq:psi' multiply defined.
+
+
+LaTeX Warning: Label `Eq:SchrDelta' multiply defined.
+
+) (Body/examenjuin2021.aux
+
+LaTeX Warning: Label `Eq:psi' multiply defined.
+
+) (Body/examenseptembre2021.aux
+
+LaTeX Warning: Label `Eq:psi' multiply defined.
+
+
+LaTeX Warning: Label `xp:3' multiply defined.
+
+
+LaTeX Warning: Label `xp:4' multiply defined.
+
+) (Body/examenjuin2022.aux
+
+LaTeX Warning: Label `xp:1' multiply defined.
+
+))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -1264,17 +1300,17 @@ Package french.ldf Info: Setting StandardEnumerateEnv=true for
 LaTeX Info: Redefining \up on input line 12.
  (/home/louan/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count510
-\scratchdimen=\dimen343
-\scratchbox=\box93
-\nofMPsegments=\count511
-\nofMParguments=\count512
-\everyMPshowfont=\toks67
-\MPscratchCnt=\count513
-\MPscratchDim=\dimen344
-\MPnumerator=\count514
-\makeMPintoPDFobject=\count515
-\everyMPtoPDFconversion=\toks68
+\scratchcounter=\count511
+\scratchdimen=\dimen346
+\scratchbox=\box96
+\nofMPsegments=\count512
+\nofMParguments=\count513
+\everyMPshowfont=\toks68
+\MPscratchCnt=\count514
+\MPscratchDim=\dimen347
+\MPnumerator=\count515
+\makeMPintoPDFobject=\count516
+\everyMPtoPDFconversion=\toks69
 ) (/home/louan/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -1305,7 +1341,7 @@ Package hyperref Info: Link coloring ON on input line 12.
 \@outlinefile=\write6
 \openout6 = `main.out'.
 
-\c@lstlisting=\count516
+\c@lstlisting=\count517
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 \openout2 = `titlepageULB.aux'.
@@ -1361,7 +1397,7 @@ File: ls1stixfrak.fd 2015/04/17 v1.1.2-latex STIX fraktur LS1 font definitions
 )pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.27 
+l.44 
       [1
 
 
@@ -1378,7 +1414,7 @@ l.27
 
  (Body/seance1.tex
 S^^c3^^a9ance 1.
-<Pictures/Photoelectrique.PNG, id=110, 537.50812pt x 472.76625pt>
+<Pictures/Photoelectrique.PNG, id=115, 537.50812pt x 472.76625pt>
 File: Pictures/Photoelectrique.PNG Graphic file (type png)
 <use Pictures/Photoelectrique.PNG>
 Package pdftex.def Info: Pictures/Photoelectrique.PNG  used on input line 12.
@@ -1397,7 +1433,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--27
 
 
  <./Pictures/Photoelectrique.PNG>]
-<Pictures/Compton.PNG, id=125, 1054.6903pt x 408.77719pt>
+<Pictures/Compton.PNG, id=130, 1054.6903pt x 408.77719pt>
 File: Pictures/Compton.PNG Graphic file (type png)
 <use Pictures/Compton.PNG>
 Package pdftex.def Info: Pictures/Compton.PNG  used on input line 48.
@@ -1411,12 +1447,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [5 <./Pictures/Compton.PNG>]
-<Pictures/Fullerenes.PNG, id=140, 658.71094pt x 359.09157pt>
+<Pictures/Fullerenes.PNG, id=145, 658.71094pt x 359.09157pt>
 File: Pictures/Fullerenes.PNG Graphic file (type png)
 <use Pictures/Fullerenes.PNG>
 Package pdftex.def Info: Pictures/Fullerenes.PNG  used on input line 71.
 (pdftex.def)             Requested size: 249.13371pt x 135.80965pt.
-<Pictures/Resultat.PNG, id=141, 511.15968pt x 701.62125pt>
+<Pictures/Resultat.PNG, id=146, 511.15968pt x 701.62125pt>
 File: Pictures/Resultat.PNG Graphic file (type png)
 <use Pictures/Resultat.PNG>
 Package pdftex.def Info: Pictures/Resultat.PNG  used on input line 84.
@@ -1797,70 +1833,473 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 3.
 
-) [42
+Examen 8.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+[42
 
 
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+ []
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+<Pictures/Carbonate1.pdf, id=771, 401.5pt x 89.33376pt>
+File: Pictures/Carbonate1.pdf Graphic file (type pdf)
+<use Pictures/Carbonate1.pdf>
+Package pdftex.def Info: Pictures/Carbonate1.pdf  used on input line 191.
+(pdftex.def)             Requested size: 362.37569pt x 80.63408pt.
+<Pictures/Carbonate2.pdf, id=772, 120.45pt x 80.3pt>
+File: Pictures/Carbonate2.pdf Graphic file (type pdf)
+<use Pictures/Carbonate2.pdf>
+Package pdftex.def Info: Pictures/Carbonate2.pdf  used on input line 200.
+(pdftex.def)             Requested size: 90.5922pt x 60.39638pt.
+<Pictures/Carbonate3.pdf, id=773, 80.3pt x 75.28125pt>
+File: Pictures/Carbonate3.pdf Graphic file (type pdf)
+<use Pictures/Carbonate3.pdf>
+Package pdftex.def Info: Pictures/Carbonate3.pdf  used on input line 202.
+(pdftex.def)             Requested size: 58.88803pt x 55.2087pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+
+ []
+
+[45 <./Pictures/Carbonate1.pdf> <./Pictures/Carbonate2.pdf> <./Pictures/Carbonate3.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+
+ []
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
+
+ []
+
+) [47]
 \openout2 = `Body/examenseptembre2019.aux'.
 
- (Body/examenseptembre2019.tex) [43
+ (Body/examenseptembre2019.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+[48
 
 
 
 
-]
+] [49]
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+[50] [51] [52]
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+[53] [54] [55]
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--353
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+
+ []
+
+) [56]
 \openout2 = `Body/examenjuin2021.aux'.
 
- (Body/examenjuin2021.tex) [44
+ (Body/examenjuin2021.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+[57
 
 
 
 
-]
+] [58]
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+<Pictures/AB.pdf, id=915, 114.4275pt x 47.17625pt>
+File: Pictures/AB.pdf Graphic file (type pdf)
+<use Pictures/AB.pdf>
+Package pdftex.def Info: Pictures/AB.pdf  used on input line 55.
+(pdftex.def)             Requested size: 135.89174pt x 56.0281pt.
+[59 <./Pictures/AB.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+<Pictures/Airy_plot.svg.png, id=933, 602.25pt x 481.8pt>
+File: Pictures/Airy_plot.svg.png Graphic file (type png)
+<use Pictures/Airy_plot.svg.png>
+Package pdftex.def Info: Pictures/Airy_plot.svg.png  used on input line 94.
+(pdftex.def)             Requested size: 362.37569pt x 289.91296pt.
+[60 <./Pictures/Airy_plot.svg.png>]) [61]
 \openout2 = `Body/examenseptembre2021.aux'.
 
- (Body/examenseptembre2021.tex) [45
+ (Body/examenseptembre2021.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+<Pictures/Psi0Psi1.pdf, id=958, 361.35pt x 225.84375pt>
+File: Pictures/Psi0Psi1.pdf Graphic file (type pdf)
+<use Pictures/Psi0Psi1.pdf>
+Package pdftex.def Info: Pictures/Psi0Psi1.pdf  used on input line 23.
+(pdftex.def)             Requested size: 226.48395pt x 141.55173pt.
+[62
 
 
 
 
-]
+ <./Pictures/Psi0Psi1.pdf>]
+<Pictures/FigPsi4.pdf, id=1084, 361.35pt x 228.855pt>
+File: Pictures/FigPsi4.pdf Graphic file (type pdf)
+<use Pictures/FigPsi4.pdf>
+Package pdftex.def Info: Pictures/FigPsi4.pdf  used on input line 75.
+(pdftex.def)             Requested size: 181.18439pt x 114.74847pt.
+<Pictures/FigPsi3.pdf, id=1085, 361.35pt x 228.855pt>
+File: Pictures/FigPsi3.pdf Graphic file (type pdf)
+<use Pictures/FigPsi3.pdf>
+Package pdftex.def Info: Pictures/FigPsi3.pdf  used on input line 81.
+(pdftex.def)             Requested size: 181.18439pt x 114.74847pt.
+<Pictures/FigPsi2.pdf, id=1086, 361.35pt x 228.855pt>
+File: Pictures/FigPsi2.pdf Graphic file (type pdf)
+<use Pictures/FigPsi2.pdf>
+Package pdftex.def Info: Pictures/FigPsi2.pdf  used on input line 90.
+(pdftex.def)             Requested size: 181.18439pt x 114.74847pt.
+<Pictures/FigPsi1.pdf, id=1087, 361.35pt x 228.855pt>
+File: Pictures/FigPsi1.pdf Graphic file (type pdf)
+<use Pictures/FigPsi1.pdf>
+Package pdftex.def Info: Pictures/FigPsi1.pdf  used on input line 96.
+(pdftex.def)             Requested size: 181.18439pt x 114.74847pt.
+<Pictures/FigPsi0.pdf, id=1088, 361.35pt x 228.855pt>
+File: Pictures/FigPsi0.pdf Graphic file (type pdf)
+<use Pictures/FigPsi0.pdf>
+Package pdftex.def Info: Pictures/FigPsi0.pdf  used on input line 105.
+(pdftex.def)             Requested size: 181.18439pt x 114.74847pt.
+ [63] [64 <./Pictures/FigPsi4.pdf> <./Pictures/FigPsi3.pdf
+
+pdfTeX warning: pdflatex (file ./Pictures/FigPsi3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./Pictures/FigPsi2.pdf
+
+pdfTeX warning: pdflatex (file ./Pictures/FigPsi2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./Pictures/FigPsi1.pdf
+
+pdfTeX warning: pdflatex (file ./Pictures/FigPsi1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./Pictures/FigPsi0.pdf
+
+pdfTeX warning: pdflatex (file ./Pictures/FigPsi0.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [65] [66]
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+[67] [68]
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+
+ []
+
+<Pictures/Fig-Optique.pdf, id=1617, 385.44pt x 157.58875pt>
+File: Pictures/Fig-Optique.pdf Graphic file (type pdf)
+<use Pictures/Fig-Optique.pdf>
+Package pdftex.def Info: Pictures/Fig-Optique.pdf  used on input line 215.
+(pdftex.def)             Requested size: 407.66833pt x 166.67535pt.
+<Pictures/Fig-Interf.pdf, id=1619, 301.125pt x 175.65625pt>
+File: Pictures/Fig-Interf.pdf Graphic file (type pdf)
+<use Pictures/Fig-Interf.pdf>
+Package pdftex.def Info: Pictures/Fig-Interf.pdf  used on input line 248.
+(pdftex.def)             Requested size: 226.48395pt x 132.11977pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[69 <./Pictures/Fig-Optique.pdf>] [70 <./Pictures/Fig-Interf.pdf>] [71] [72]
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+) [73]
 \openout2 = `Body/examenjuin2022.aux'.
 
- (Body/examenjuin2022.tex) [46
+ (Body/examenjuin2022.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+[74
 
 
 
 
-]
-\openout2 = `Body/examenseptembre2022.aux'.
+pdfTeX warning (ext4): destination with the same identifier (name{equation.8.0.45}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.47 \newpage
+             ] [75]
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
- (Body/examenseptembre2022.tex) [47
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{equation.8.0.45}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.55 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifier (name{equation.8.0.45}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.55 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifier (name{equation.8.0.45}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.55 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifier (name{equation.8.0.45}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.55 \begin{equation}
+                     
+Overfull \hbox (0.18092pt too wide) in paragraph at lines 89--90
+[]\T1/cmr/m/n/10 Soit l'^^e9tat qui en re-pr^^e9-sen-ta-tion po-si-tion s'^^e9crit $\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10  \OMS/cmsy/m/n/10 i \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 c [] dx  [][][]\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 x\OMS/cmsy/m/n/10 i$ \T1/cmr/m/n/10 avec $\OML/cmm/m/it/10 c$ \T1/cmr/m/n/10 une constante
+ []
+
+[76] [77]
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 112--116
 
+ []
 
-] (main.aux (titlepageULB.aux) (Body/seance1.aux) (Body/seance2.aux) (Body/seance3.aux) (Body/seance4.aux) (Body/seance5.aux) (Body/seance6.aux) (Body/seance7.aux) (Body/examenjuin2019.aux) (Body/examenseptembre2019.aux) (Body/examenjuin2021.aux) (Body/examenseptembre2021.aux) (Body/examenjuin2022.aux) (Body/examenseptembre2022.aux))
+[78] [79] [80] [81] (main.aux (titlepageULB.aux) (Body/seance1.aux) (Body/seance2.aux) (Body/seance3.aux) (Body/seance4.aux) (Body/seance5.aux) (Body/seance6.aux) (Body/seance7.aux) (Body/examenjuin2019.aux) (Body/examenseptembre2019.aux) (Body/examenjuin2021.aux) (Body/examenseptembre2021.aux) (Body/examenjuin2022.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 8CF8BC89D70C39B77FE58DC631CDB187;2768.
+(rerunfilecheck)             Checksum: 3E718C5BF08FBEAB6DB17353AB41E9D4;2683.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
- ) 
+ ) )
+(\end occurred when \iftrue on line 83 was incomplete)
+(\end occurred when \ifx on line 83 was incomplete)
+(\end occurred when \ifnum on line 83 was incomplete) 
 Here is how much of TeX's memory you used:
- 53893 strings out of 478362
- 1207652 string characters out of 2842112
- 2070060 words of memory out of 3000000
- 70834 multiletter control sequences out of 15000+600000
- 487890 words of font info for 72 fonts, out of 8000000 for 9000
+ 54274 strings out of 478362
+ 1212217 string characters out of 2842112
+ 2068023 words of memory out of 3000000
+ 71038 multiletter control sequences out of 15000+600000
+ 488761 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  106i,16n,114p,1245b,1840s stack positions out of 10000i,1000n,20000p,200000b,80000s
- </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0700.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2488.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2074.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmib10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/rsfs/rsfs10.pfb>
-Output written on main.pdf (48 pages, 904749 bytes).
+ </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0900.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0700.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2488.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2074.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmib10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/rsfs/rsfs10.pfb>
+Output written on main.pdf (82 pages, 1702526 bytes).
 PDF statistics:
- 1373 PDF objects out of 1440 (max. 8388607)
- 510 named destinations out of 1000 (max. 500000)
- 171 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2427 PDF objects out of 2487 (max. 8388607)
+ 675 named destinations out of 1000 (max. 500000)
+ 236 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,76 +1,83 @@
 \babel@toc {french}{}\relax 
-\contentsline {part}{S^^c3^^a9ances d'exercices}{4}{chapter*.2}%
-\contentsline {chapter}{\numberline {1}Dualit^^c3^^a9 onde-corpuscule}{4}{chapter.1}%
-\contentsline {paragraph}{Exercice 1}{4}{paragraph*.3}%
-\contentsline {paragraph}{Exercice 2}{5}{paragraph*.5}%
-\contentsline {paragraph}{Exercice 3}{6}{paragraph*.7}%
-\contentsline {paragraph}{Exercice 4}{7}{paragraph*.10}%
-\contentsline {chapter}{\numberline {2}^^c3^^89quation de Schr^^c3^^b6dinger}{8}{chapter.2}%
-\contentsline {paragraph}{Exercice 1}{8}{paragraph*.11}%
-\contentsline {paragraph}{Exercice 2}{9}{paragraph*.12}%
-\contentsline {paragraph}{Exercice 3}{10}{paragraph*.13}%
-\contentsline {paragraph}{Exercice 4}{11}{paragraph*.14}%
-\contentsline {paragraph}{Exercice 5}{12}{paragraph*.15}%
-\contentsline {paragraph}{Exercice 6}{13}{paragraph*.16}%
-\contentsline {paragraph}{Exercice 7}{14}{paragraph*.17}%
-\contentsline {paragraph}{Exercice 8}{15}{paragraph*.18}%
-\contentsline {chapter}{\numberline {3}Formalisme de Dirac}{16}{chapter.3}%
-\contentsline {paragraph}{Exercice 1}{16}{paragraph*.20}%
-\contentsline {paragraph}{Exercice 2}{17}{paragraph*.21}%
-\contentsline {paragraph}{Exercice 3}{18}{paragraph*.22}%
-\contentsline {paragraph}{Exercice 4}{18}{paragraph*.23}%
-\contentsline {paragraph}{Exercice 5}{18}{paragraph*.24}%
-\contentsline {paragraph}{Exercice 6}{19}{paragraph*.25}%
-\contentsline {paragraph}{Exercice 7}{19}{paragraph*.26}%
-\contentsline {paragraph}{Exercice 8}{20}{paragraph*.27}%
-\contentsline {paragraph}{Exercice 9}{20}{paragraph*.28}%
-\contentsline {chapter}{\numberline {4}Postulats \& applications}{22}{chapter.4}%
-\contentsline {paragraph}{Exercice 1}{22}{paragraph*.29}%
-\contentsline {paragraph}{Exercice 2}{23}{paragraph*.30}%
-\contentsline {paragraph}{Exercice 3}{23}{paragraph*.31}%
-\contentsline {paragraph}{Exercice 4}{24}{paragraph*.32}%
-\contentsline {paragraph}{Exercice 5}{25}{paragraph*.33}%
-\contentsline {paragraph}{Exercice 6}{25}{paragraph*.34}%
-\contentsline {paragraph}{Exercice 7}{26}{paragraph*.35}%
-\contentsline {paragraph}{Exercice 8}{27}{paragraph*.36}%
-\contentsline {paragraph}{Exercice S1}{28}{paragraph*.37}%
-\contentsline {paragraph}{Exercice S2}{28}{paragraph*.38}%
-\contentsline {paragraph}{Exercice S3}{28}{paragraph*.39}%
-\contentsline {chapter}{\numberline {5}Syst^^c3^^a8mes ^^c3^^a0 deux dimensions}{30}{chapter.5}%
-\contentsline {paragraph}{Exercice 1}{30}{paragraph*.40}%
-\contentsline {paragraph}{Exercice 2}{31}{paragraph*.41}%
-\contentsline {paragraph}{Exercice 3}{32}{paragraph*.42}%
-\contentsline {paragraph}{Exercice 4}{32}{paragraph*.43}%
-\contentsline {chapter}{\numberline {6}L'oscillateur harmonique en m^^c3^^a9canique quantique}{34}{chapter.6}%
-\contentsline {paragraph}{Exercice 1}{34}{paragraph*.44}%
-\contentsline {paragraph}{Exercice 2}{34}{paragraph*.45}%
-\contentsline {paragraph}{Exercice 3}{36}{paragraph*.46}%
-\contentsline {paragraph}{Exercice 4}{37}{paragraph*.47}%
-\contentsline {paragraph}{Exercice 5}{37}{paragraph*.48}%
-\contentsline {chapter}{\numberline {7}Produit tensoriel \& intrication}{39}{chapter.7}%
-\contentsline {paragraph}{Exercice 1}{39}{paragraph*.49}%
-\contentsline {paragraph}{Exercice 2}{39}{paragraph*.50}%
-\contentsline {paragraph}{Exercice 3}{39}{paragraph*.51}%
-\contentsline {paragraph}{Exercice 4}{40}{paragraph*.52}%
-\contentsline {paragraph}{Exercice 5}{40}{paragraph*.53}%
-\contentsline {paragraph}{Exercice 6}{41}{paragraph*.54}%
-\contentsline {part}{Examens pr^^c3^^a9c^^c3^^a9dents}{42}{equation.7.0.12}%
-\contentsline {chapter}{Examen de juin 2019}{42}{section*.55}%
-\contentsline {chapter}{\numberline {8}Juin 2019}{42}{chapter.8}%
-\contentsline {paragraph}{Question 1}{42}{paragraph*.56}%
-\contentsline {paragraph}{Question 2}{43}{paragraph*.57}%
-\contentsline {paragraph}{Question 3}{45}{paragraph*.58}%
-\contentsline {paragraph}{Question 4}{47}{paragraph*.61}%
-\contentsline {chapter}{Examen de septembre 2019}{48}{Item.346}%
-\contentsline {paragraph}{Question 1}{48}{paragraph*.63}%
-\contentsline {paragraph}{Question 2}{50}{paragraph*.64}%
-\contentsline {paragraph}{Question 3}{53}{paragraph*.65}%
-\contentsline {paragraph}{Question 4}{56}{paragraph*.66}%
-\contentsline {chapter}{Examen de juin 2021}{57}{Item.361}%
-\contentsline {paragraph}{Question 1}{57}{paragraph*.69}%
-\contentsline {paragraph}{Question 2}{59}{paragraph*.70}%
-\contentsline {paragraph}{Question 3}{60}{paragraph*.72}%
-\contentsline {chapter}{Examen de septembre 2021}{62}{equation.8.0.16}%
-\contentsline {paragraph}{Question 1}{62}{paragraph*.75}%
-\contentsline {paragraph}{Question 2}{67}{paragraph*.78}%
-\contentsline {paragraph}{Question X}{69}{paragraph*.79}%
+\contentsline {part}{I\hspace {1em}Exercices}{5}{part.1}%
+\contentsline {chapter}{\numberline {1}Dualit^^c3^^a9 onde-corpuscule}{7}{chapter.1.1}%
+\contentsline {paragraph}{Exercice 1}{7}{paragraph*.2}%
+\contentsline {paragraph}{Exercice 2}{8}{paragraph*.4}%
+\contentsline {paragraph}{Exercice 3}{9}{paragraph*.6}%
+\contentsline {paragraph}{Exercice 4}{10}{paragraph*.9}%
+\contentsline {chapter}{\numberline {2}^^c3^^89quation de Schr^^c3^^b6dinger}{11}{chapter.1.2}%
+\contentsline {paragraph}{Exercice 1}{11}{paragraph*.10}%
+\contentsline {paragraph}{Exercice 2}{12}{paragraph*.11}%
+\contentsline {paragraph}{Exercice 3}{13}{paragraph*.12}%
+\contentsline {paragraph}{Exercice 4}{14}{paragraph*.13}%
+\contentsline {paragraph}{Exercice 5}{15}{paragraph*.14}%
+\contentsline {paragraph}{Exercice 6}{16}{paragraph*.15}%
+\contentsline {paragraph}{Exercice 7}{17}{paragraph*.16}%
+\contentsline {paragraph}{Exercice 8}{18}{paragraph*.17}%
+\contentsline {chapter}{\numberline {3}Formalisme de Dirac}{19}{chapter.1.3}%
+\contentsline {paragraph}{Exercice 1}{19}{paragraph*.19}%
+\contentsline {paragraph}{Exercice 2}{20}{paragraph*.20}%
+\contentsline {paragraph}{Exercice 3}{21}{paragraph*.21}%
+\contentsline {paragraph}{Exercice 4}{21}{paragraph*.22}%
+\contentsline {paragraph}{Exercice 5}{21}{paragraph*.23}%
+\contentsline {paragraph}{Exercice 6}{22}{paragraph*.24}%
+\contentsline {paragraph}{Exercice 7}{22}{paragraph*.25}%
+\contentsline {paragraph}{Exercice 8}{23}{paragraph*.26}%
+\contentsline {paragraph}{Exercice 9}{23}{paragraph*.27}%
+\contentsline {chapter}{\numberline {4}Postulats \& applications}{25}{chapter.1.4}%
+\contentsline {paragraph}{Exercice 1}{25}{paragraph*.28}%
+\contentsline {paragraph}{Exercice 2}{26}{paragraph*.29}%
+\contentsline {paragraph}{Exercice 3}{26}{paragraph*.30}%
+\contentsline {paragraph}{Exercice 4}{27}{paragraph*.31}%
+\contentsline {paragraph}{Exercice 5}{28}{paragraph*.32}%
+\contentsline {paragraph}{Exercice 6}{28}{paragraph*.33}%
+\contentsline {paragraph}{Exercice 7}{29}{paragraph*.34}%
+\contentsline {paragraph}{Exercice 8}{30}{paragraph*.35}%
+\contentsline {paragraph}{Exercice S1}{31}{paragraph*.36}%
+\contentsline {paragraph}{Exercice S2}{31}{paragraph*.37}%
+\contentsline {paragraph}{Exercice S3}{31}{paragraph*.38}%
+\contentsline {chapter}{\numberline {5}Syst^^c3^^a8mes ^^c3^^a0 deux dimensions}{33}{chapter.1.5}%
+\contentsline {paragraph}{Exercice 1}{33}{paragraph*.39}%
+\contentsline {paragraph}{Exercice 2}{34}{paragraph*.40}%
+\contentsline {paragraph}{Exercice 3}{35}{paragraph*.41}%
+\contentsline {paragraph}{Exercice 4}{35}{paragraph*.42}%
+\contentsline {chapter}{\numberline {6}L'oscillateur harmonique en m^^c3^^a9canique quantique}{37}{chapter.1.6}%
+\contentsline {paragraph}{Exercice 1}{37}{paragraph*.43}%
+\contentsline {paragraph}{Exercice 2}{37}{paragraph*.44}%
+\contentsline {paragraph}{Exercice 3}{39}{paragraph*.45}%
+\contentsline {paragraph}{Exercice 4}{40}{paragraph*.46}%
+\contentsline {paragraph}{Exercice 5}{40}{paragraph*.47}%
+\contentsline {chapter}{\numberline {7}Produit tensoriel \& intrication}{43}{chapter.1.7}%
+\contentsline {paragraph}{Exercice 1}{43}{paragraph*.48}%
+\contentsline {paragraph}{Exercice 2}{43}{paragraph*.49}%
+\contentsline {paragraph}{Exercice 3}{43}{paragraph*.50}%
+\contentsline {paragraph}{Exercice 4}{44}{paragraph*.51}%
+\contentsline {paragraph}{Exercice 5}{44}{paragraph*.52}%
+\contentsline {paragraph}{Exercice 6}{45}{paragraph*.53}%
+\contentsline {part}{II\hspace {1em}Examens}{47}{part.2}%
+\contentsline {chapter}{\numberline {1}Juin 2019}{51}{chapter.2.1}%
+\contentsline {paragraph}{Question 1}{51}{paragraph*.54}%
+\contentsline {paragraph}{Question 2}{51}{paragraph*.55}%
+\contentsline {paragraph}{Question 3}{52}{paragraph*.56}%
+\contentsline {paragraph}{Question 4}{53}{paragraph*.59}%
+\contentsline {chapter}{\numberline {2}Ao^^c3^^bbt 2019}{55}{chapter.2.2}%
+\contentsline {paragraph}{Question 1}{55}{paragraph*.60}%
+\contentsline {paragraph}{Question 2}{55}{paragraph*.61}%
+\contentsline {paragraph}{Question 3}{56}{paragraph*.62}%
+\contentsline {paragraph}{Question 4}{56}{paragraph*.63}%
+\contentsline {chapter}{\numberline {3}Juin 2021}{59}{chapter.2.3}%
+\contentsline {paragraph}{Question 1}{59}{paragraph*.65}%
+\contentsline {paragraph}{Question 2}{59}{paragraph*.66}%
+\contentsline {paragraph}{Question 3}{60}{paragraph*.68}%
+\contentsline {chapter}{\numberline {4}Ao^^c3^^bbt 2021}{63}{chapter.2.4}%
+\contentsline {paragraph}{Question 1}{63}{paragraph*.70}%
+\contentsline {paragraph}{Question 2}{64}{paragraph*.73}%
+\contentsline {paragraph}{Question 3}{66}{paragraph*.74}%
+\contentsline {chapter}{\numberline {5}Juin 2022}{69}{chapter.2.5}%
+\contentsline {paragraph}{Question 1}{69}{paragraph*.77}%
+\contentsline {paragraph}{Question 2}{69}{paragraph*.78}%
+\contentsline {paragraph}{Question 3}{70}{paragraph*.79}%
+\contentsline {chapter}{\numberline {6}Ao^^c3^^bbt 2022}{71}{chapter.2.6}%
+\contentsline {paragraph}{Question 1.}{71}{paragraph*.80}%
+\contentsline {paragraph}{Question 2.}{71}{paragraph*.81}%
+\contentsline {paragraph}{Question 3.}{73}{paragraph*.83}%

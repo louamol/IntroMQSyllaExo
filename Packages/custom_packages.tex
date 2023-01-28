@@ -182,15 +182,23 @@
 \pagestyle{fancy}
 \fancyhf{}
 \lhead{\rightmark}
-\rhead{\thepage}
+%\rhead{\thepage}
+
+\fancyfoot[LE,RO]{\thepage}
+\fancyfoot[LO,RE]{PHYS-F203}
+%\fancyfoot[CO,RE]{To: Dean A. Smith}
+
+\makeatletter
+\@addtoreset{chapter}{part}
+\makeatother
 
 \definecolor{gray75}{gray}{0.75}
 \newcommand{\hsp}{\hspace{10pt}}
 \newcommand{\hspp}{\hspace{10pt}}
-\titleformat{\chapter}[hang]{\Huge\bfseries}{Séance \thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
-\titleformat{\section}[hang]{\Large\bfseries}{\thesection\hspp\textcolor{gray75}{|}\hspp}{0pt}{\Large\bfseries}
-\titleformat{\subsection}[hang]{\large\bfseries}{\thesubsection\hspp\textcolor{gray75}{|}\hspp}{0pt}{\large\bfseries}
-\titleformat{\subsubsection}[hang]{\normalsize\bfseries}{\thesubsubsection\hspp\textcolor{gray75}{|}\hspp}{0pt}{\normalsize\bfseries}
+\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+%\titleformat{\section}[hang]{\Large\bfseries}{\thesection\hspp\textcolor{gray75}{|}\hspp}{0pt}{\Large\bfseries}
+%\titleformat{\subsection}[hang]{\large\bfseries}{\thesubsection\hspp\textcolor{gray75}{|}\hspp}{0pt}{\large\bfseries}
+%\titleformat{\subsubsection}[hang]{\normalsize\bfseries}{\thesubsubsection\hspp\textcolor{gray75}{|}\hspp}{0pt}{\normalsize\bfseries}
 
 % \typecolo symbol
 \DeclareFontEncoding{LS1}{}{}

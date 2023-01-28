@@ -1,5 +1,5 @@
 %---PACKAGES----------------------------------------
-\documentclass[a4paper,10pt]{report}
+\documentclass[a4paper,10pt]{book}
 
 \usepackage{import}
 \import{Packages/}{custom_packages.tex}
@@ -17,28 +17,13 @@
 
 \thispagestyle{plain}
 
-${}$
+Ce syllabus est destiné aux étudiants en deuxième année de Bachelier en Sciences Physiques. La première partie du syllabus contient les problèmes qui seront résolus durant les séances d'exercices. Le énoucé des ces derniers ont été rédigés par Adrien Fiorucci. La deuxième partie sert de recueille d'examen.
 
-\vspace{5cm}
+Les référeces du cours sont: 
 
-Les énoncés figurants dans ce documents ont été repris des séances d'exercices rédigées par Adrien Fiorucci.
 
-\begin{enumerate}
-    \item Principe d'incertitude d'Heisenberg
-    \item L'équation de Schrödinger: Juin 2019 Q4, Aout 2019 Q4, Juin 2021 Q3, Aout 2023 Q3
-    \item Formalisme de Dirac, et axiomes de la Mécanique Quantique: Juin 2019 Q1, Aout 2019 Q1, Juin 2022 Q3
-    \item Applications des postulats de la Mécanique Quantique: 
-    \begin{itemize}
-        \item Interféromètre de Mach-Zehnder: Septembre 2021 Q3
-        \item Oscillations de neutrinos: Aout 2022 Q2
-        \item La molécule d'ammoniac NH3
-        \item Autres exemples de Résonance Quantique: Juin 2019 Q3, Juin 2021 Q2
-        \item Quantification du moment angulaire
-        \item Spin 1/2: Aout 2019 Q3, Juin 2022 Q1
-    \end{itemize}
-    \item Position et Impulsion en Mécanique Quantique: Septembre 2021 Q2, Juin 2022 Q2
-    \item Oscillateur Harmonique Quantique: Juin 2019 Q2, Aout 2019 Q2, Juin 2021 Q1, Septembre 2021 Q1, Aout 2022 Q
-\end{enumerate}
+Cohen-Tannoudji, Claude. Mécanique quantique . Tome I-II. [2e] Ed. rev., corr. et augm. d’une bibliogr. étendue. Paris: Hermann, 1980. Print.
+
 
 \pagebreak
 
@@ -46,13 +31,13 @@ Les énoncés figurants dans ce documents ont été repris des séances d'exerci
 
 \tableofcontents
 
-\printbibliography
-
 \pagebreak
 
 \makeatletter
 \renewcommand{\@chapapp}{Séance}
 \makeatother
+
+\part{Exercices}
 
 \include{Body/seance1.tex}
 
@@ -71,6 +56,29 @@ Les énoncés figurants dans ce documents ont été repris des séances d'exerci
 \makeatletter
 \renewcommand{\@chapapp}{Examen}
 \makeatother
+
+\part{Examens}
+
+\thispagestyle{plain}
+
+Classification des question d'examens par sujet:
+
+\begin{enumerate}
+    \item Principe d'incertitude d'Heisenberg
+    \item L'équation de Schrödinger: Juin 2019 Q4, Aout 2019 Q4, Juin 2021 Q3, Aout 2023 Q3
+    \item Formalisme de Dirac, et axiomes de la Mécanique Quantique: Juin 2019 Q1, Aout 2019 Q1, Juin 2022 Q3
+    \item Applications des postulats de la Mécanique Quantique: 
+    \begin{itemize}[label=\textbullet]
+        \item Interféromètre de Mach-Zehnder: Septembre 2021 Q3
+        \item Oscillations de neutrinos: Aout 2022 Q2
+        \item La molécule d'ammoniac NH3
+        \item Autres exemples de Résonance Quantique: Juin 2019 Q3, Juin 2021 Q2
+        \item Quantification du moment angulaire
+        \item Spin 1/2: Aout 2019 Q3, Juin 2022 Q1
+    \end{itemize}
+    \item Position et Impulsion en Mécanique Quantique: Septembre 2021 Q2, Juin 2022 Q2
+    \item Oscillateur Harmonique Quantique: Juin 2019 Q2, Aout 2019 Q2, Juin 2021 Q1, Septembre 2021 Q1, Aout 2022 Q
+\end{enumerate}
 
 \include{Body/examenjuin2019.tex}
 

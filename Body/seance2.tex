@@ -28,7 +28,6 @@ Le module carré $|\Psi(t,\vec x)|^2$ de la fonction d'onde joue le même rôle 
 	\end{enumerate}
 \end{enumerate}
 
-\newpage
 \paragraph{Exercice 2} \textit{Propagation d'un paquet d'onde gaussien.} \\
 Dans la réalité, la Relation de Heisenberg empêche quiconque de prédire exactement la position (respectivement l'impulsion) d'une particule sans provoquer l'indétermination totale de son impulsion (respectivement sa position). Imaginons qu'à l'origine du temps $t=0$ nous connaissions approximativement la position d'une particule autour de $x=0$, dont le mouvement sera supposé uni-dimensionnel et libre. L'incertitude sur cette position sera notée $L$. Nous pouvons représenter cette particule par une fonction d'onde gaussienne de largeur $L$ et d'impulsion initiale $p_0$ :
 \begin{equation}
@@ -59,7 +58,6 @@ pour $\alpha$ tel que $\text{Re}\lbrace \alpha^2\rbrace > 0$.
 \item Calculez le courant de probabilité $J(t,x)$ associé à la propagation du paquet d'onde, et vérifiez que la particule est bien conservée.
 \end{enumerate}
 
-\newpage
 \paragraph{Exercice 3} \textit{Marche de potentiel.} \\
 On considère une particule de masse $m$ en mouvement unidimensionnel le long de la direction $x$. Se déplaçant initialement dans la région $x<0$ de gauche à droite, elle rencontre en $x=0$ une marche de potentiel de hauteur finie et donnée par $V_0$. Nous analyserons deux cas distincts.
 \begin{enumerate}
@@ -79,7 +77,6 @@ On considère une particule de masse $m$ en mouvement unidimensionnel le long de
 	\end{enumerate}
 \end{enumerate}
 
-\newpage
 \paragraph{Exercice 4} \textit{État lié dans un puits de potentiel infiniment mince.} \\
 On considère une particule de masse $m$ en mouvement unidimensionnel le long de la direction $x$ et dont l'opérateur Hamiltonien est donné par
 \begin{equation}
@@ -103,7 +100,6 @@ où $\alpha$ est une constante réelle positive dont on donnera les dimensions.
 \item Représentez graphiquement les fonctions d'onde déterminées au point précédent, et donnez un ordre de grandeur de leur largeur $\Delta x$. 
 \end{enumerate}
 
-\newpage
 \paragraph{Exercice 5} \textit{Transmission à travers une barrière de potentiel infiniment mince.} \\
 On considère une particule de masse $m$ en mouvement unidimensionnel le long de la direction $x$ et dont l'opérateur Hamiltonien est à nouveau donné par
 \begin{equation}
@@ -126,7 +122,6 @@ où $k$, $A$ et $B$ sont des constantes dont vous calculerez la valeur en foncti
 \item Montrez que, si l'on prolonge l'expression de $\mathcal{T}$ pour des valeurs d'énergie négatives, elle diverge lorsque $E\to-E_L$. Commentaires ?
 \end{enumerate}
 
-\newpage
 \paragraph{Exercice 6} \textit{Piège quantique à murs infiniment minces.} \\
 On considère une particule de masse $m$ en mouvement unidimensionnel le long de la direction $x$, dont l'énergie potentielle s'écrit
 \begin{equation}
@@ -148,7 +143,6 @@ Donnez une résolution graphique de cette équation.
 	\item \textit{État excité.} Montrez que, lorsque le puits est suffisamment large (au-delà d'une valeur critique pour $\ell$ que vous calculerez), il existe un état excité, impair cette fois, et d'énergie $E_A$ supérieure à $-E_L$. À nouveau, interprétez et représentez graphiquement la fonction d'onde correspondante.
 	\end{enumerate}
 \end{enumerate}
-\newpage
 
 \paragraph{Exercice 7} \textit{Mouvement circulaire uniforme --- Modèle de Bohr.}  \\
 Considérons une particule de masse $m$ confinée sur un cercle de rayon $R$ et de circonférence $L = 2\pi R$. Plus précisément, on admet qu'un potentiel confine la particule dans les directions transverses. Ce potentiel est tellement fort qu'aux échelles d'énergie que nous envisageons, le seul degré de liberté est le mouvement le long du cercle.\\
@@ -178,11 +172,33 @@ Soit $x \in [-\frac{L}{2},\frac{L}{2}]$ la coordonnée le long du cercle. L'orig
     \item Montrez que le rayon de cette orbite vérifie $R_n = a_0 n^2$ où $n\in\mathbb N_0$ et $a_0$ est le rayon de Bohr que l'on calculera. Comment pouviez-vous estimer la valeur de $a_0$ ?
     \item Quels sont, dans ce modèle, les niveaux d'énergie $\varepsilon_n$ de l'atome d'Hydrogène ? 
     \item Calculez la longueur d'onde dans le vide de la raie correspondant à la transition d'un électron du niveau $n'$ vers le niveau $n$ de l'atome d'Hydrogène (\textit{formule de Rydberg}). Quelle est l'énergie d'ionisation de cet atome ? 
-\end{enumerate} 
+\end{enumerate}
 
 \newpage
 
 \paragraph{Exercice 8} \textit{Boîte quantique avec barrière infiniment mince.} \hfill [\textit{Septembre 2019}] \\
+
+Considérons une particule de masse $m$ confinée entre $x= -\frac{L}{2}$ et $x =+\frac{L}{2}$. En $x=0$ se trouve une barrière de potentiel suffisamment mince pour que nous puissions la représenter par une distribution $\delta$. \\
+
+L'équation de Schrödinger stationnaire pour la particule est donc
+\begin{equation}
+-\frac{\hbar^2}{2m} \frac{d^2}{d x^2} \psi(x) + \alpha\, \delta(x)\, \psi(x)= E\, \psi(x)
+\label{Eq:SchrDelta}
+\end{equation}
+avec $\alpha>0$ et les conditions aux bords $\psi(-\frac{L}{2})=0=\psi(+\frac{L}{2})$.
+
+\begin{enumerate}
+\item Quels sont les états stationnaires du système lorsque $\alpha = 0$. Calculez les niveaux d'énergie correspondants.
+
+\item Dorénavant, nous considérons $\alpha \neq  0$. Quelles conditions de raccord faut-il imposer en $x=0$ pour tenir compte du potentiel $\delta$ ?
+
+\item
+Démontrez que toute solution de l'équation  \eqref{Eq:SchrDelta} possède une parité bien définie. Montrez en particulier que les fonctions d'onde impaires, solutions de l'équation \eqref{Eq:SchrDelta} avec $\alpha=0$ (trouvées au point 1), sont également solutions lorsque $\alpha\neq 0$ avec la même énergie.
+
+\item Considérons à présent les solutions paires. En utilisant la condition de raccord dérivée au point 2, déterminez les niveaux d'énergie de ces solutions. 
+
+\textit{Note :} Ces niveaux d'énergie seront donnés par une équation transcendante que vous ne pourrez pas résoudre analytiquement !
+\end{enumerate}
 
 \begin{figure}[h!]
     \centering
@@ -206,25 +222,3 @@ Soit $x \in [-\frac{L}{2},\frac{L}{2}]$ la coordonnée le long du cercle. L'orig
     \end{tikzpicture}
     \caption{Représentation schématique du potentiel $V(x)$ de l'équation \eqref{Eq:SchrDelta}: $V$ est infini pour $x<-\frac{L}{2}$ et pour $x>\frac{L}{2}$. En outre un potentiel $\delta$ est présent en $x=0$.}
 \end{figure}
-
-Considérons une particule de masse $m$ confinée entre $x= -\frac{L}{2}$ et $x =+\frac{L}{2}$. En $x=0$ se trouve une barrière de potentiel suffisamment mince pour que nous puissions la représenter par une distribution $\delta$. \\
-
-L'équation de Schrödinger stationnaire pour la particule est donc
-\begin{equation}
--\frac{\hbar^2}{2m} \frac{d^2}{d x^2} \psi(x) + \alpha\, \delta(x)\, \psi(x)= E\, \psi(x)
-\label{Eq:SchrDelta}
-\end{equation}
-avec $\alpha>0$ et les conditions aux bords $\psi(-\frac{L}{2})=0=\psi(+\frac{L}{2})$.
-
-\begin{enumerate}
-\item Quels sont les états stationnaires du système lorsque $\alpha = 0$. Calculez les niveaux d'énergie correspondants.
-
-\item Dorénavant, nous considérons $\alpha \neq  0$. Quelles conditions de raccord faut-il imposer en $x=0$ pour tenir compte du potentiel $\delta$ ?
-
-\item
-Démontrez que toute solution de l'équation  \eqref{Eq:SchrDelta} possède une parité bien définie. Montrez en particulier que les fonctions d'onde impaires, solutions de l'équation \eqref{Eq:SchrDelta} avec $\alpha=0$ (trouvées au point 1), sont également solutions lorsque $\alpha\neq 0$ avec la même énergie.
-
-\item Considérons à présent les solutions paires. En utilisant la condition de raccord dérivée au point 2, déterminez les niveaux d'énergie de ces solutions. 
-
-\textit{Note :} Ces niveaux d'énergie seront donnés par une équation transcendante que vous ne pourrez pas résoudre analytiquement !
-\end{enumerate}

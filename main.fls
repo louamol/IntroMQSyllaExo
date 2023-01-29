@@ -1819,12 +1819,14 @@ INPUT /home/louan/.miktex/texmfs/install/fonts/tfm/jknappen/ec/ecbx2074.tfm
 INPUT /home/louan/.miktex/texmfs/install/fonts/tfm/jknappen/ec/ecbx1200.tfm
 INPUT /home/louan/.miktex/texmfs/install/fonts/tfm/jknappen/ec/ecbx1000.tfm
 INPUT /home/louan/.miktex/texmfs/data/pdftex/config/pdftex.map
+INPUT /home/louan/.miktex/texmfs/install/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT /home/louan/.miktex/texmfs/install/fonts/tfm/jknappen/ec/ecrm2488.tfm
 INPUT /home/louan/.miktex/texmfs/install/fonts/tfm/jknappen/ec/ecbx2488.tfm
 INPUT ./main.toc
 INPUT main.toc
 INPUT main.toc
 OUTPUT main.toc
+INPUT /home/louan/.miktex/texmfs/install/fonts/tfm/jknappen/ec/ecsl1000.tfm
 INPUT ./Body/seance1.tex
 OUTPUT Body/seance1.aux
 INPUT ./Body/seance1.tex
@@ -1970,7 +1972,6 @@ INPUT ./Body/seance7.tex
 INPUT Body/seance7.tex
 INPUT ./Body/seance7.tex
 INPUT Body/seance7.tex
-INPUT /home/louan/.miktex/texmfs/install/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT ./Body/examenjuin2019.tex
 OUTPUT Body/examenjuin2019.aux
 INPUT ./Body/examenjuin2019.tex
@@ -2166,8 +2167,6 @@ INPUT main.run.xml
 OUTPUT main.run.xml
 INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0900.pk
 INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0900.pk
-INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk
-INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk
 INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk
 INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk
 INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0700.pk
@@ -2178,8 +2177,12 @@ INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc100
 INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc1000.pk
 INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk
 INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk
+INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecsl1000.pk
+INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecsl1000.pk
 INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2488.pk
 INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2488.pk
+INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk
+INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk
 INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk
 INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk
 INPUT /home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk

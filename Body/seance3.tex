@@ -41,7 +41,7 @@ Déterminez la représentation de $\hat H$ dans la nouvelle base $\mathscr B'$, 
 	
 \paragraph{Exercice 2} \textit{Base d'opérateurs.} \\
 Soit un espace de Hilbert de dimension $N\in\mathbb N_0$. On imagine qu'il existe un opérateur $\hat H$ agissant dans cet espace, qui soit hermitien et possède un ensemble de vecteurs propres non-dégénérés notés $\lbrace\ket{\varphi_n}\rbrace$. Pour les besoins de l'exercice, nous supposerons que ces vecteurs de base sont normés : $\braket{\varphi_n}{\varphi_n} = 1$, $\forall n$. 
-	\begin{enumerate}
+\begin{enumerate}
 	\item Justifiez que $\mathscr B = \lbrace\ket{\varphi_n}\rbrace_{n\in\mathbb{N}}$ constitue une base orthonormée de l'espace de Hilbert. 
 	\item Pour tout couple de naturels $(m,n)$, on définit l'opérateur $\hat U(m,n) = \ket{\varphi_m}\bra{\varphi_n}$. Interprétez l'action de $\hat U(m,n)$ lorsque $m\neq n$.
 	\item Quel sens donnez-vous à $\hat U(n,n)$ ? Montrez qu'il faut et il suffit que $\sum_{n=1}^N \hat U(n,n) = \hat I$ pour que $\mathscr B$ forme une base orthonormée de l'espace de Hilbert (\textit{relation de fermeture}).
@@ -49,9 +49,8 @@ Soit un espace de Hilbert de dimension $N\in\mathbb N_0$. On imagine qu'il exist
 	\item Calculez $\hat U(m,n) \hat U^\dagger (p,q)$, $\forall\, m,n,p,q \in \mathbb{N}_0$, ainsi que $\text{tr} [\hat U(m,n)]$. 
 	\item Soit un opérateur $\hat A$ dont les éléments de matrice dans la base $\mathscr B$ sont les nombres complexes $A_{mn}$. Démontrez la relation $\hat A = \sum_{m,n} A_{mn} \hat U(m,n)$.
 	\item Prouvez que si l'on dispose de l'opérateur $\hat A$ et de la collection d'opérateurs $\hat U(m,n)$, on peut facilement obtenir les composantes $A_{mn}$ en calculant $A_{mn} = \text{tr} [\hat A \hat U^\dagger (m,n)]$. Quel sens donnez-vous alors à $\hat U(m,n)$ ?
-	\end{enumerate}
+\end{enumerate}
 	
-\newpage
 \paragraph{Exercice 3} \textit{Structures propres (2 dimensions).} \\
 Soit un opérateur hermitien $\hat A$ agissant dans un espace de Hilbert à 2 dimensions dont on considère la base orthonormée $\lbrace \ket{1},\ket{2}\rbrace$. Nous dénoterons par $A_{mn}$ l'élément de matrice $\langle m|\hat A|n\rangle$.
 \begin{enumerate}

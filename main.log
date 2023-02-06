@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2022.7.24)  31 JAN 2023 09:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2022.7.24)  6 FEB 2023 18:33
 entering extended mode
 **/home/louan/Documents/LaTeX/IntroMQ/IntroMQSyllaExo/main.tex
 (/home/louan/Documents/LaTeX/IntroMQ/IntroMQSyllaExo/main.tex
@@ -1594,13 +1594,10 @@ Package amsmath Warning: Cannot use `split' here;
 
 
 
-] [43] [44] [45]
+] [43] [44]
 \openout2 = `Body/examenjuin2019.aux'.
 
- (Body/examenjuin2019.tex [46
-
-
-]
+ (Body/examenjuin2019.tex
 Examen 1.
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
@@ -1662,7 +1659,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
  []
 
-<Pictures/Carbonate1.pdf, id=769, 401.5pt x 89.33376pt>
+<Pictures/Carbonate1.pdf, id=759, 401.5pt x 89.33376pt>
 File: Pictures/Carbonate1.pdf Graphic file (type pdf)
 <use Pictures/Carbonate1.pdf>
 Package pdftex.def Info: Pictures/Carbonate1.pdf  used on input line 183.
@@ -1670,12 +1667,12 @@ Package pdftex.def Info: Pictures/Carbonate1.pdf  used on input line 183.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Carbonate2.pdf, id=770, 120.45pt x 80.3pt>
+<Pictures/Carbonate2.pdf, id=760, 120.45pt x 80.3pt>
 File: Pictures/Carbonate2.pdf Graphic file (type pdf)
 <use Pictures/Carbonate2.pdf>
 Package pdftex.def Info: Pictures/Carbonate2.pdf  used on input line 192.
 (pdftex.def)             Requested size: 90.5922pt x 60.39638pt.
-<Pictures/Carbonate3.pdf, id=771, 80.3pt x 75.28125pt>
+<Pictures/Carbonate3.pdf, id=761, 80.3pt x 75.28125pt>
 File: Pictures/Carbonate3.pdf Graphic file (type pdf)
 <use Pictures/Carbonate3.pdf>
 Package pdftex.def Info: Pictures/Carbonate3.pdf  used on input line 194.
@@ -1688,7 +1685,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 203--204
 
  []
 
-[47]
+[45
+
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 217--218
 
  []
@@ -1701,7 +1701,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 246--247
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [48 <./Pictures/Carbonate1.pdf> <./Pictures/Carbonate2.pdf> <./Pictures/Carbonate3.pdf>]
+ [46 <./Pictures/Carbonate1.pdf> <./Pictures/Carbonate2.pdf> <./Pictures/Carbonate3.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 300--301
 
  []
@@ -1721,10 +1721,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 326--327
 
  []
 
-) [49]
+) [47]
 \openout2 = `Body/examenseptembre2019.aux'.
 
- (Body/examenseptembre2019.tex [50
+ (Body/examenseptembre2019.tex [48
 
 
 
@@ -1786,7 +1786,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
-[51]
+[49]
 Underfull \hbox (badness 10000) in paragraph at lines 124--125
 
  []
@@ -1836,7 +1836,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 235--238
 
  []
 
-[52]
+[50]
 Underfull \hbox (badness 10000) in paragraph at lines 299--300
 
  []
@@ -1851,10 +1851,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 336--337
 
  []
 
-) [53]
+) [51]
 \openout2 = `Body/examenjuin2021.aux'.
 
- (Body/examenjuin2021.tex [54
+ (Body/examenjuin2021.tex [52
 
 
 
@@ -1886,7 +1886,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
-<Pictures/AB.pdf, id=891, 114.4275pt x 47.17625pt>
+<Pictures/AB.pdf, id=881, 114.4275pt x 47.17625pt>
 File: Pictures/AB.pdf Graphic file (type pdf)
 <use Pictures/AB.pdf>
 Package pdftex.def Info: Pictures/AB.pdf  used on input line 48.
@@ -1894,20 +1894,20 @@ Package pdftex.def Info: Pictures/AB.pdf  used on input line 48.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[55]
+[53]
 Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
-<Pictures/Airy_plot.svg.png, id=905, 602.25pt x 481.8pt>
+<Pictures/Airy_plot.svg.png, id=894, 602.25pt x 481.8pt>
 File: Pictures/Airy_plot.svg.png Graphic file (type png)
 <use Pictures/Airy_plot.svg.png>
 Package pdftex.def Info: Pictures/Airy_plot.svg.png  used on input line 84.
 (pdftex.def)             Requested size: 361.35278pt x 289.08221pt.
-[56 <./Pictures/AB.pdf> <./Pictures/Airy_plot.svg.png>]) [57]
+[54 <./Pictures/AB.pdf> <./Pictures/Airy_plot.svg.png>]) [55]
 \openout2 = `Body/examenseptembre2021.aux'.
 
- (Body/examenseptembre2021.tex [58
+ (Body/examenseptembre2021.tex [56
 
 
 
@@ -1934,33 +1934,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-<Pictures/Psi0Psi1.pdf, id=946, 361.35pt x 225.84375pt>
+<Pictures/Psi0Psi1.pdf, id=936, 361.35pt x 225.84375pt>
 File: Pictures/Psi0Psi1.pdf Graphic file (type pdf)
 <use Pictures/Psi0Psi1.pdf>
 Package pdftex.def Info: Pictures/Psi0Psi1.pdf  used on input line 21.
 (pdftex.def)             Requested size: 226.48395pt x 141.55173pt.
-[59 <./Pictures/Psi0Psi1.pdf>]
-<Pictures/FigPsi4.pdf, id=1072, 361.35pt x 228.855pt>
+[57 <./Pictures/Psi0Psi1.pdf>]
+<Pictures/FigPsi4.pdf, id=1062, 361.35pt x 228.855pt>
 File: Pictures/FigPsi4.pdf Graphic file (type pdf)
 <use Pictures/FigPsi4.pdf>
 Package pdftex.def Info: Pictures/FigPsi4.pdf  used on input line 71.
 (pdftex.def)             Requested size: 181.18439pt x 114.74847pt.
-<Pictures/FigPsi3.pdf, id=1073, 361.35pt x 228.855pt>
+<Pictures/FigPsi3.pdf, id=1063, 361.35pt x 228.855pt>
 File: Pictures/FigPsi3.pdf Graphic file (type pdf)
 <use Pictures/FigPsi3.pdf>
 Package pdftex.def Info: Pictures/FigPsi3.pdf  used on input line 77.
 (pdftex.def)             Requested size: 181.18439pt x 114.74847pt.
-<Pictures/FigPsi2.pdf, id=1074, 361.35pt x 228.855pt>
+<Pictures/FigPsi2.pdf, id=1064, 361.35pt x 228.855pt>
 File: Pictures/FigPsi2.pdf Graphic file (type pdf)
 <use Pictures/FigPsi2.pdf>
 Package pdftex.def Info: Pictures/FigPsi2.pdf  used on input line 86.
 (pdftex.def)             Requested size: 181.18439pt x 114.74847pt.
-<Pictures/FigPsi1.pdf, id=1075, 361.35pt x 228.855pt>
+<Pictures/FigPsi1.pdf, id=1065, 361.35pt x 228.855pt>
 File: Pictures/FigPsi1.pdf Graphic file (type pdf)
 <use Pictures/FigPsi1.pdf>
 Package pdftex.def Info: Pictures/FigPsi1.pdf  used on input line 92.
 (pdftex.def)             Requested size: 181.18439pt x 114.74847pt.
-<Pictures/FigPsi0.pdf, id=1076, 361.35pt x 228.855pt>
+<Pictures/FigPsi0.pdf, id=1066, 361.35pt x 228.855pt>
 File: Pictures/FigPsi0.pdf Graphic file (type pdf)
 <use Pictures/FigPsi0.pdf>
 Package pdftex.def Info: Pictures/FigPsi0.pdf  used on input line 101.
@@ -1970,7 +1970,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
-[60] [61 <./Pictures/FigPsi4.pdf> <./Pictures/FigPsi3.pdf
+[58] [59 <./Pictures/FigPsi4.pdf> <./Pictures/FigPsi3.pdf
 
 pdfTeX warning: pdflatex (file ./Pictures/FigPsi3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <./Pictures/FigPsi2.pdf
@@ -1987,12 +1987,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 191--192
 
  []
 
-<Pictures/Fig-Optique.pdf, id=1582, 385.44pt x 157.58875pt>
+<Pictures/Fig-Optique.pdf, id=1571, 385.44pt x 157.58875pt>
 File: Pictures/Fig-Optique.pdf Graphic file (type pdf)
 <use Pictures/Fig-Optique.pdf>
 Package pdftex.def Info: Pictures/Fig-Optique.pdf  used on input line 195.
 (pdftex.def)             Requested size: 346.89279pt x 141.82854pt.
-<Pictures/Fig-Interf.pdf, id=1584, 301.125pt x 175.65625pt>
+<Pictures/Fig-Interf.pdf, id=1573, 301.125pt x 175.65625pt>
 File: Pictures/Fig-Interf.pdf Graphic file (type pdf)
 <use Pictures/Fig-Interf.pdf>
 Package pdftex.def Info: Pictures/Fig-Interf.pdf  used on input line 228.
@@ -2000,10 +2000,10 @@ Package pdftex.def Info: Pictures/Fig-Interf.pdf  used on input line 228.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[62 <./Pictures/Fig-Optique.pdf>]) [63 <./Pictures/Fig-Interf.pdf>]
+[60 <./Pictures/Fig-Optique.pdf>]) [61 <./Pictures/Fig-Interf.pdf>]
 \openout2 = `Body/examenjuin2022.aux'.
 
- (Body/examenjuin2022.tex [64
+ (Body/examenjuin2022.tex [62
 
 
 
@@ -2030,7 +2030,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
-[65pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5.0.3}) has been already used, duplicate ignored
+[63pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5.0.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.95 {\bf R
@@ -2043,7 +2043,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--101
 
  []
 
-) [66]
+) [64]
 \openout2 = `Body/examenseptembre2022.aux'.
 
  (Body/examenseptembre2022.tex
@@ -2063,13 +2063,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
-[67
+[65
 
 
 
 
 ]
-<Pictures/Fig-Pol.pdf, id=1716, 480.79625pt x 196.735pt>
+<Pictures/Fig-Pol.pdf, id=1705, 480.79625pt x 196.735pt>
 File: Pictures/Fig-Pol.pdf Graphic file (type pdf)
 <use Pictures/Fig-Pol.pdf>
 Package pdftex.def Info: Pictures/Fig-Pol.pdf  used on input line 89.
@@ -2079,33 +2079,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--104
 
  []
 
-<Pictures/FigPot.pdf, id=1719, 299.1175pt x 274.02374pt>
+<Pictures/FigPot.pdf, id=1708, 299.1175pt x 274.02374pt>
 File: Pictures/FigPot.pdf Graphic file (type pdf)
 <use Pictures/FigPot.pdf>
 Package pdftex.def Info: Pictures/FigPot.pdf  used on input line 107.
 (pdftex.def)             Requested size: 239.29431pt x 219.21928pt.
-[68 <./Pictures/Fig-Pol.pdf>] [69 <./Pictures/FigPot.pdf>]) [70] (main.aux (titlepageULB.aux) (Body/seance1.aux) (Body/seance2.aux) (Body/seance3.aux) (Body/seance4.aux) (Body/seance5.aux) (Body/seance6.aux) (Body/seance7.aux) (Body/examenjuin2019.aux) (Body/examenseptembre2019.aux) (Body/examenjuin2021.aux) (Body/examenseptembre2021.aux) (Body/examenjuin2022.aux) (Body/examenseptembre2022.aux))
+[66 <./Pictures/Fig-Pol.pdf>] [67 <./Pictures/FigPot.pdf>]) [68] (main.aux (titlepageULB.aux) (Body/seance1.aux) (Body/seance2.aux) (Body/seance3.aux) (Body/seance4.aux) (Body/seance5.aux) (Body/seance6.aux) (Body/seance7.aux) (Body/examenjuin2019.aux) (Body/examenseptembre2019.aux) (Body/examenjuin2021.aux) (Body/examenseptembre2021.aux) (Body/examenjuin2022.aux) (Body/examenseptembre2022.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B6D95DD352011A5D6808F823F9B15A39;2194.
+(rerunfilecheck)             Checksum: 4677654DE376468C83025FC8A0CD50F3;2199.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54145 strings out of 478362
- 1210756 string characters out of 2842112
+ 54141 strings out of 478362
+ 1210746 string characters out of 2842112
  2071019 words of memory out of 3000000
  70890 multiletter control sequences out of 15000+600000
  489915 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  106i,16n,114p,1245b,1840s stack positions out of 10000i,1000n,20000p,200000b,80000s
  </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0900.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0700.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecsl1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2488.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2074.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmib10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/rsfs/rsfs10.pfb>
-Output written on main.pdf (70 pages, 1730734 bytes).
+Output written on main.pdf (68 pages, 1729441 bytes).
 PDF statistics:
- 2457 PDF objects out of 2487 (max. 8388607)
- 683 named destinations out of 1000 (max. 500000)
+ 2447 PDF objects out of 2487 (max. 8388607)
+ 679 named destinations out of 1000 (max. 500000)
  246 words of extra memory for PDF output out of 10000 (max. 10000000)
 
